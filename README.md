@@ -73,7 +73,7 @@ Hệ thống cung cấp công cụ quản lý họp, phân công công việc, t
 
 ---
 
-### Cách MeetOS giải quyết
+### Cách GreeSurp giải quyết
 
 - Buộc mọi thành viên tham gia họp và phát biểu
 - Chuyển task thành Git Issues có người chịu trách nhiệm rõ ràng
