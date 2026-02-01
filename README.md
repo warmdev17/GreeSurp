@@ -5,7 +5,7 @@
 **GreeSurp** là một hệ thống hỗ trợ làm việc nhóm cho sinh viên, hoạt động song song với Discord.
 Hệ thống giúp tổ chức họp nhóm, chia task, theo dõi đóng góp và tích hợp trực tiếp với GitHub/GitLab để mô phỏng quy trình phát triển phần mềm chuyên nghiệp trong môi trường học tập.
 
-MeetOS không thay thế Discord/Meet mà đóng vai trò như một **hệ điều hành cho teamwork**.
+GreeSurp không thay thế Discord/Meet mà đóng vai trò như một **hệ điều hành cho teamwork**.
 
 ---
 
